@@ -1,5 +1,4 @@
 ### Mayank singhrathore
- [![Linkedin Badge](https://img.shields.io/badge/-mayank-singh-rathore?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mayank-singh-rathore//)](www.linkedin.com/in/mayank-singh-rathore-aa04a618a) [![Gmail Badge](https://img.shields.io/badge/-mayanksinghrathore818@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mayanksinghrathore818@gmail.com)](mailto:mayanksinghrathore818@gmail.com)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### About
 
