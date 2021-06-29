@@ -2,8 +2,8 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### About
 
--  **Learning :** Full-Stack Development :zap: | Open-Source :fire:	
--  **Languages :** Python, C, JavaScript
+-  **Learning :** Full-Stack development  | Computervision | Algorithms
+-  **Languages :** Python, C, JavaScript,HTML,CSS
 -  **Organization :** KIET Group of institutions
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
